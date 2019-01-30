@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <body>
+      <style>
+          
+          body{
+              
+          }
+          
+          body {
+              font-family:cursive;
+              background-color:brown;   
+         }
+           #green {
+             background-color:green;
+         } 
+          
+          
+          
+      </style>  
+        <h1>Liam's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#first-post">First post!</a></li>
+<li><a href="#learned">What I've learned!</a></li>
+<li><a href="#want-to-do">What I want to do!</a></li>
+    
+</ul>
+       
+        <h2 id="first-post">First post</h2>
+        <p>The first time my teacher Ms.Reed told me to go in the hallway and go onto Khan academy and learn how to code I was super exsied. My dad has a friend who is a professional coder and he hd helped me make a video game but that was two years ago and I could'nt remnber anything now so I went out side and had a blast that day.
+      <h2 id="learned">What I've learned!</h2>
+        
+        <p>The first thing I learned was that coding is never going to be easy intell you master it or you understand it verry well. So ever since the day my teacher told me to go in the hallway to code I've practce every day.</p>
+        <h2 id="want-to-do">What I want to do!</h2>
+        <p>Some thing I want to do is make a video game with some of my friends. Second I want to make a website for my lawn mowing busnesses so peole don't think I'm not orginized.
+    </body>
+</html>
